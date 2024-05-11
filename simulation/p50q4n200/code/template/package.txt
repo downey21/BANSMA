@@ -1,0 +1,26 @@
+
+# sudo apt-get update
+# sudo apt-get -y install libglpk-dev
+# install.packages("igraph", repos = "https://cran.yu.ac.kr/")
+
+# install.packages("rms", repos = "https://cran.yu.ac.kr/")
+# install.packages("RcppArmadillo", repos = "https://cran.yu.ac.kr/")
+# install.packages("RcppEigen", repos = "https://cran.yu.ac.kr/")
+# install.packages(
+#     '/root/Project/BANS/Rpackage/BANS_1.0.tar.gz',
+#     repos = NULL,
+#     type = 'source'
+# )
+
+# install.packages("bama", repos = "https://cran.yu.ac.kr/")
+
+# sudo apt-get update
+# sudo apt-get -y install cmake
+install.packages("nloptr", repos = "https://cran.yu.ac.kr/")
+# install.packages("mediation", repos = "https://cran.yu.ac.kr/")
+
+# install.packages("pROC", repos = "https://cran.yu.ac.kr/")
+
+# install.packages("ROSE", repos = "https://cran.yu.ac.kr/")
+
+# nohup bash BA_job1.sh > /dev/null 2>&1 &
